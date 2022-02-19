@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Simulator Screen Recording - iPhone 13 - 2022-02-19 at 17 41 32](https://user-images.githubusercontent.com/48847610/154793696-5c11fe58-5458-49b9-bd50-eb04726f9cf1.gif)
+![Simulator Screen Recording - iPhone 13 - 2022-02-19 at 17 52 20](https://user-images.githubusercontent.com/48847610/154793974-c37d069e-1de0-4f42-83f3-7cd38cf81ac7.gif)
 
 ## Getting Started
 
